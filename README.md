@@ -52,7 +52,7 @@ mixed_list=[1, "two", 4.5, True]
 - Fill in the required fields in the comment section.
 - Create a variable `mylist` that conatins  first 6 natural numbers.
 - Use the `append()` method and add a new element, number 7 in the variable `mylis`t. 
-- Use the `inser()` method and insert the element 0 at index 0.
+- Use the `insert()` method and insert the element 0 at index 0.
 - Use the `pop()' method to remove the element from index 2.
 - Print the variable `mylist`.
 - Add another statement in the script to find the index of the element 6 and print `The element 6 is present at the index ---`
